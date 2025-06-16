@@ -2,7 +2,7 @@ import React from "react";
 import { Routes, Route, Link, useNavigate, useLocation } from "react-router-dom";
 import "./App.css";
 import EnrollmentOptions from "./EnrollmentOptions";
-import Statement from "./Statement";
+import Statement from "./statement";
 import Feedback from "./Feedback";
 import NOC from "./NOC";
 import Certificate from "./Certificate";
